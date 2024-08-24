@@ -1,0 +1,13 @@
+# Binaries
+/go/bin
+/go/pkg
+/bin
+# Build directory
+/dist
+# Vendor directory
+/vendor
+# IDE files
+/.vscode
+/.idea
+# OS generated files
+.DS_Store
