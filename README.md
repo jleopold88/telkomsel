@@ -2,8 +2,7 @@
 
 Telkomsel's technical Assesment API implementation 
 The app runs in the port :3000
-
-To run app exec ```go run main.go```
+Don't forget to bind your desired Port to the docker image when initializing it.
 
 ## Features
 
